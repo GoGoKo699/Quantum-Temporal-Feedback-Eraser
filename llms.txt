@@ -1,0 +1,15 @@
+# Quantum Temporal Feedback Eraser
+
+> One-shot recovery of an unknown qubit using one emitted photon and a bounded phase-feedback alphabet.
+
+## Scientific routes
+
+- [Model](science/model.md): unknown input and reference, controlled optical waveforms, fixed-time classical feedback and metrics.
+- [Exact recovery](science/exact.md): common polygon criterion, K-window label count, and message entropy.
+- [Approximate recovery](science/approximate.md): optimal fixed-alphabet score, matched arrival-time error, and near-threshold bounds.
+- [Receiver](science/receiver.md): Gram-matching mode receiver and reusable optical two-bin implementation.
+- [Robustness](science/robustness.md): matched discrete timing comparison, attenuation, modal overlap and jitter.
+- [Overlapping windows](science/overlapping.md): local-effect converse and quantile-pairing receiver.
+- [Related work](references/RELATED_WORK.md): attribution for environment-assisted correction and optical detection.
+- [Learning route](learning/README.md): 30 milestones and one textbook bridge.
+- [Verification](verification/README.md): mathematical and finite-model checks.
